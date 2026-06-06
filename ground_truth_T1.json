@@ -1,0 +1,46 @@
+{
+  "action_items": [
+    {
+      "task": "ログイン画面のUI崩れの修正",
+      "assignee": "佐藤",
+      "due_date": "2026-06-12",
+      "priority": "high"
+    },
+    {
+      "task": "CSVエクスポート機能の実装",
+      "assignee": "佐藤",
+      "due_date": "2026-06-20",
+      "priority": "high"
+    },
+    {
+      "task": "決済バグ（請求金額表示のずれ）の再現調査",
+      "assignee": "佐藤",
+      "due_date": "2026-06-15",
+      "priority": "high"
+    },
+    {
+      "task": "ダッシュボードのユーザーテスト被験者の募集",
+      "assignee": "鈴木",
+      "due_date": "2026-06-18",
+      "priority": "medium"
+    },
+    {
+      "task": "新規顧客向け製品紹介資料の作成",
+      "assignee": "山本",
+      "due_date": null,
+      "priority": "medium"
+    },
+    {
+      "task": "APIドキュメントの整備",
+      "assignee": "鈴木",
+      "due_date": null,
+      "priority": "low"
+    },
+    {
+      "task": "来週定例ミーティングのアジェンダ準備",
+      "assignee": "田中",
+      "due_date": "2026-06-13",
+      "priority": "low"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "action_items": [
+    {
+      "task": "チャーン率上昇の原因分析レポートの作成（解約企業へのヒアリング含む）",
+      "assignee": "中村",
+      "due_date": "2026-07-03",
+      "priority": "high"
+    },
+    {
+      "task": "オンボーディング改善施策の企画案作成",
+      "assignee": "田中",
+      "due_date": "2026-07-10",
+      "priority": "high"
+    },
+    {
+      "task": "中堅企業層（NPS低下セグメント）へのヒアリングと機能要望の整理",
+      "assignee": "中村",
+      "due_date": "2026-07-08",
+      "priority": "medium"
+    },
+    {
+      "task": "エンタープライズプランの料金設計の見直し（たたき台作成）",
+      "assignee": "高橋",
+      "due_date": "2026-07-15",
+      "priority": "medium"
+    },
+    {
+      "task": "B社との年間契約更新交渉のクロージング",
+      "assignee": "山本",
+      "due_date": "2026-06-30",
+      "priority": "high"
+    },
+    {
+      "task": "リード獲得キャンペーン（業種別ウェビナー）の実施",
+      "assignee": "小林",
+      "due_date": "2026-07-01",
+      "priority": "high"
+    },
+    {
+      "task": "競合製品の比較資料の作成",
+      "assignee": "小林",
+      "due_date": "2026-07-05",
+      "priority": "low"
+    },
+    {
+      "task": "APIレート制限機能の実装",
+      "assignee": "佐藤",
+      "due_date": "2026-07-20",
+      "priority": "high"
+    },
+    {
+      "task": "多言語対応の技術的な実現可能性の調査",
+      "assignee": "佐藤",
+      "due_date": null,
+      "priority": "medium"
+    },
+    {
+      "task": "インフラコスト削減の検討",
+      "assignee": "佐藤",
+      "due_date": null,
+      "priority": "low"
+    },
+    {
+      "task": "エンジニア2名の採用募集の開始",
+      "assignee": "高橋",
+      "due_date": null,
+      "priority": "medium"
+    },
+    {
+      "task": "7月度予算案の作成",
+      "assignee": "田中",
+      "due_date": "2026-06-28",
+      "priority": "high"
+    }
+  ]
+}

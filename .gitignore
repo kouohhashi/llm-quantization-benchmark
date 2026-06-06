@@ -1,0 +1,32 @@
+# モデルファイル（数GB、リポジトリに含めない）
+models/
+*.gguf
+*.safetensors
+*.bin
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.uv/
+
+# 環境固有ファイル
+.env
+*.log
+
+# macOS
+.DS_Store
+
+# AWQの大きなログファイル（サマリーのみ残す）
+results/awq/attempt_*.log
+results/awq/success_*.log
+results/awq/official_*.log
+
+# 使い捨て・スモークテスト・探索ログ（progress.md で「使い捨て」と明記済み）
+results/_scratch/
+results/smoke_*
+results/verify_chat.csv
+results/run_log*.txt
+data/smoke_test.txt

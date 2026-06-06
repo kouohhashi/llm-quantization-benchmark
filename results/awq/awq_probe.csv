@@ -1,0 +1,47 @@
+timestamp,model_name,quant_type,context_len,task_type,data_id,ttft_sec,gen_speed_tps,peak_vram_gb,offload_layers,output_valid,output_text
+2026-06-06T20:47:53,Qwen3-8B-AWQ,AWQ_INT4,8192,json_extract,T1,,,0.377,,ERROR,RuntimeError: Engine core initialization failed. See root cause above. Failed core proc(s): {'EngineCore': 1}
+2026-06-06T20:48:50,Qwen3-8B-AWQ,AWQ_INT4,8192,json_extract,T1,,,7.98,,ERROR,RuntimeError: Engine core initialization failed. See root cause above. Failed core proc(s): {}
+2026-06-06T20:50:06,Qwen3-8B-AWQ,AWQ_INT4,8192,json_extract,T1,,,7.98,,ERROR,RuntimeError: Engine core initialization failed. See root cause above. Failed core proc(s): {}
+2026-06-06T20:51:06,Qwen3-8B-AWQ,AWQ_INT4,8192,json_extract,T1,,,7.98,,ERROR,RuntimeError: Engine core initialization failed. See root cause above. Failed core proc(s): {}
+2026-06-06T20:51:29,Qwen3-8B-AWQ,AWQ_INT4,8192,json_extract,T1,,,7.98,,ERROR,RuntimeError: Engine core initialization failed. See root cause above. Failed core proc(s): {}
+2026-06-06T20:51:50,Qwen3-8B-AWQ,AWQ_INT4,8192,json_extract,T1,,,7.98,,ERROR,RuntimeError: Engine core initialization failed. See root cause above. Failed core proc(s): {}
+2026-06-06T20:53:27,Qwen3-8B-AWQ,AWQ_INT4,4096,json_extract,T1,,22.67,7.98,awq(all),True,"{
+  ""action_items"": [
+    {
+      ""task"": ""ログイン画面のUI崩れ修正"",
+      ""assignee"": ""佐藤"",
+      ""due_date"": ""2026-06-12"",
+      ""priority"": ""high""
+    },
+    {
+      ""task"": ""CSVエクスポート機能の実装"",
+      ""assignee"": ""佐藤"",
+      ""due_date"": ""2026-06-20"",
+      ""priority"": ""high""
+    },
+    {
+      ""task"": ""決済バグの再現調査"",
+      ""assignee"": ""佐藤"",
+      ""due_date"": ""2026-06-15"",
+      ""priority"": ""high""
+    },
+    {
+      ""task"": ""被験者募集"",
+      ""assignee"": ""鈴木"",
+      ""due_date"": ""2026-06-18"",
+      ""priority"": ""medium""
+    },
+    {
+      ""task"": ""新規顧客向け製品紹介資料の作成"",
+      ""assignee"": ""山本"",
+      ""due_date"": null,
+      ""priority"": ""medium""
+    },
+    {
+      ""task"": ""APIドキュメント整備"",
+      ""assignee"": ""鈴木"",
+      ""due_date"": null,
+      ""priority"": ""low""
+    }
+  ]
+}"

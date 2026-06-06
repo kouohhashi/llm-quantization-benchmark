@@ -1,0 +1,124 @@
+{
+  "action_items": [
+    {
+      "task": "Q3四半期決算の確定と取締役会向け報告資料の作成",
+      "assignee": "渡辺",
+      "due_date": "2026-07-05",
+      "priority": "high"
+    },
+    {
+      "task": "Q4予算案の最終確定",
+      "assignee": "渡辺",
+      "due_date": "2026-07-18",
+      "priority": "high"
+    },
+    {
+      "task": "Q3未達分を取り戻す営業リカバリープランの作成",
+      "assignee": "山本",
+      "due_date": "2026-07-07",
+      "priority": "high"
+    },
+    {
+      "task": "パートナープログラム（士業連携）の正式立ち上げ",
+      "assignee": "山本",
+      "due_date": "2026-09-01",
+      "priority": "medium"
+    },
+    {
+      "task": "権限管理強化機能のリリース",
+      "assignee": "佐藤",
+      "due_date": "2026-09-30",
+      "priority": "high"
+    },
+    {
+      "task": "複数拠点管理機能の設計・開発",
+      "assignee": "佐藤",
+      "due_date": "2026-09-15",
+      "priority": "high"
+    },
+    {
+      "task": "エンタープライズ向けセキュリティ対応のロードマップ策定",
+      "assignee": "佐藤",
+      "due_date": "2026-07-20",
+      "priority": "medium"
+    },
+    {
+      "task": "インフラコスト最適化（アーカイブストレージへの移行）の実施",
+      "assignee": "佐藤",
+      "due_date": "2026-08-15",
+      "priority": "low"
+    },
+    {
+      "task": "エンタープライズプランの正式リリース",
+      "assignee": "田中",
+      "due_date": "2026-08-31",
+      "priority": "high"
+    },
+    {
+      "task": "オンボーディング改善施策の効果測定と第二弾の企画",
+      "assignee": "田中",
+      "due_date": "2026-08-10",
+      "priority": "medium"
+    },
+    {
+      "task": "多言語対応の開発着手判断（調査結果のレビュー）",
+      "assignee": "田中",
+      "due_date": "2026-08-05",
+      "priority": "medium"
+    },
+    {
+      "task": "AI機能（シフト最適化等）の市場調査・PoC企画",
+      "assignee": "田中",
+      "due_date": null,
+      "priority": "low"
+    },
+    {
+      "task": "カスタマーサクセス部門の増員（2名）",
+      "assignee": "中村",
+      "due_date": null,
+      "priority": "medium"
+    },
+    {
+      "task": "ヘルプセンターのコンテンツ刷新と設定手順の動画化",
+      "assignee": "中村",
+      "due_date": "2026-08-31",
+      "priority": "low"
+    },
+    {
+      "task": "Q4マーケティング予算の配分計画の作成",
+      "assignee": "小林",
+      "due_date": "2026-07-15",
+      "priority": "high"
+    },
+    {
+      "task": "業種特化型ランディングページ（製造業・小売・医療）の制作・公開",
+      "assignee": "小林",
+      "due_date": "2026-08-20",
+      "priority": "medium"
+    },
+    {
+      "task": "Q4採用計画の確定（エンジニア・CS・営業の増員）",
+      "assignee": "伊藤",
+      "due_date": "2026-07-12",
+      "priority": "high"
+    },
+    {
+      "task": "評価制度の見直し・改定案の作成",
+      "assignee": "伊藤",
+      "due_date": "2026-09-30",
+      "priority": "low"
+    },
+    {
+      "task": "全社オフサイト（キックオフ）の企画",
+      "assignee": "伊藤",
+      "due_date": "2026-07-25",
+      "priority": "low"
+    },
+    {
+      "task": "Q4全社売上目標の設定と各部門への配分",
+      "assignee": "高橋",
+      "due_date": "2026-07-10",
+      "priority": "high"
+    }
+  ]
+}
